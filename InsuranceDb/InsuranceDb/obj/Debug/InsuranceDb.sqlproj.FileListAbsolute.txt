@@ -1,0 +1,10 @@
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\bin\Debug\InsuranceDb.dacpac
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\bin\Debug\InsuranceDb.dll
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\bin\Debug\InsuranceDb.pdb
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\InsuranceDb.sqlproj.AssemblyReference.cache
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\Model.xml
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\refactor.xml
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\postdeploy.sql
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\predeploy.sql
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\InsuranceDb.dll
+C:\Users\Veebrij\source\repos\InsuranceDb\InsuranceDb\obj\Debug\InsuranceDb.pdb
